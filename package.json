@@ -1,0 +1,25 @@
+{
+  "name": "tab_news",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/cleiilsonamartins/tab_news#readme",
+  "bugs": {
+    "url": "https://github.com/cleiilsonamartins/tab_news/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleiilsonamartins/tab_news.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  }
+}
